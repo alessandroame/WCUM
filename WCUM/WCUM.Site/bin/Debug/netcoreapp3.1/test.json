@@ -1,0 +1,31 @@
+{
+  "Name": "Paradiso",
+  "Plexus": [
+    {
+      "Name": "Anna Frank",
+      "Classes": [
+        {
+          "Name": "1a",
+          "Students": null
+        },
+        {
+          "Name": "2a",
+          "Students": null
+        }
+      ]
+    },
+    {
+      "Name": "Gobetti",
+      "Classes": [
+        {
+          "Name": "1a",
+          "Students": null
+        },
+        {
+          "Name": "2a",
+          "Students": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\git\WCUM\WCUM\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\git\WCUM\WCUM\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\git\WCUM\WCUM\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\git\WCUM\WCUM\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\git\WCUM\WCUM\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\git\WCUM\WCUM\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\git\WCUM\WCUM\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\git\WCUM\WCUM\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\git\WCUM\WCUM\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\git\WCUM\WCUM\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\git\WCUM\WCUM\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\git\WCUM\WCUM\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\git\WCUM\WCUM\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+C:\git\WCUM\WCUM\Test\bin\Debug\netcoreapp3.1\Model.dll
+C:\git\WCUM\WCUM\Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\git\WCUM\WCUM\Test\bin\Debug\netcoreapp3.1\Model.pdb
+C:\git\WCUM\WCUM\Test\obj\Debug\netcoreapp3.1\Test.csproj.CopyComplete

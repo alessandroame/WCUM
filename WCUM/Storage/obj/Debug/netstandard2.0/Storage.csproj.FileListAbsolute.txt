@@ -1,0 +1,9 @@
+C:\git\WCUM\WCUM\Storage\bin\Debug\netstandard2.0\Storage.deps.json
+C:\git\WCUM\WCUM\Storage\bin\Debug\netstandard2.0\Storage.dll
+C:\git\WCUM\WCUM\Storage\obj\Debug\netstandard2.0\Storage.csprojAssemblyReference.cache
+C:\git\WCUM\WCUM\Storage\obj\Debug\netstandard2.0\Storage.AssemblyInfoInputs.cache
+C:\git\WCUM\WCUM\Storage\obj\Debug\netstandard2.0\Storage.AssemblyInfo.cs
+C:\git\WCUM\WCUM\Storage\bin\Debug\netstandard2.0\Storage.pdb
+C:\git\WCUM\WCUM\Storage\obj\Debug\netstandard2.0\Storage.csproj.CoreCompileInputs.cache
+C:\git\WCUM\WCUM\Storage\obj\Debug\netstandard2.0\Storage.dll
+C:\git\WCUM\WCUM\Storage\obj\Debug\netstandard2.0\Storage.pdb
